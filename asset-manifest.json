@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fm-contact-form/static/css/main.1466109b.css",
+    "main.js": "/fm-contact-form/static/js/main.fc920435.js",
+    "static/js/453.385e8649.chunk.js": "/fm-contact-form/static/js/453.385e8649.chunk.js",
+    "index.html": "/fm-contact-form/index.html",
+    "main.1466109b.css.map": "/fm-contact-form/static/css/main.1466109b.css.map",
+    "main.fc920435.js.map": "/fm-contact-form/static/js/main.fc920435.js.map",
+    "453.385e8649.chunk.js.map": "/fm-contact-form/static/js/453.385e8649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1466109b.css",
+    "static/js/main.fc920435.js"
+  ]
+}
